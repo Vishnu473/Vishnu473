@@ -24,7 +24,7 @@ https://leetcard.jacoblin.cool/VishnuKishore?theme=dark&font=Roboto%20Mono&ext=h
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishnu-kishore-tarini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishnu-kishore-tarini/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishnu-kishore-tarini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishnu-kishore-tarini/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/dashboard/recent?workspace=35134821-52f8-410b-86f6-c3b4068bf3d7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/recent?workspace=35134821-52f8-410b-86f6-c3b4068bf3d7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vishnu_473" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/vishnu_473" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/vishnukishore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vishnukishore/" height="30" width="40" /></a>
