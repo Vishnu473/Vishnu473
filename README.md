@@ -8,14 +8,20 @@ https://leetcard.jacoblin.cool/VishnuKishore?theme=dark&font=Roboto%20Mono&ext=h
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnu473" alt="vishnu473" /></a> </p>
 
-- 🔭 I’m currently working on **.Net Maui**
+- 🔭 I’m currently working on **.Net MAUI - Cross Mobile Development**
 
-- 🌱 I’m currently learning **Gen AI**
+- 🌱 I’m currently learning **Angular, Azure Cloud, Gen AI**
 
-- 💬 Ask me about **.Net MAUI**
+- 🤝 I’m looking for help with **AI related Models and Gen AI**
+
+- 📝 You can connect me on LinkedIn [https://www.linkedin.com/in/vishnu-kishore-tarini/](https://www.linkedin.com/in/vishnu-kishore-tarini/)
+
+- 💬 Ask me about **.Net MAUI, Python, SQL, Azure**
 
 - 📫 How to reach me **vishnukishore.tarini.9@gmail.com**
 
+- ⚡ Fun fact **I play chess and work on some side projects related to Angular.**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishnu-kishore-tarini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishnu-kishore-tarini/" height="30" width="40" /></a>
