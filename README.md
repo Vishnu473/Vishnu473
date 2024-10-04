@@ -2,7 +2,8 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu473&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu473" /> </p>
-
+![LeetCode Stats](
+https://leetcard.jacoblin.cool/VishnuKishore?theme=dark&font=Roboto%20Mono&ext=heatmap)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnu473" alt="vishnu473" /></a> </p>
 
 - 🔭 I’m currently working on **.Net Maui**
