@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Vishnu Kishore Tarini
 
-🚀 Software Engineer focused on building **AI-powered applications**, **full stack web solutions**, and **cross-platform mobile apps**.
+🚀 Senior Analyst focused on building **AI-powered applications**, **full stack web solutions**, and **cross-platform mobile apps**.
 
 I'm currently investing in becoming an **AI Engineer** by combining software engineering fundamentals with modern AI technologies like **LLMs, AI Agents, RAG, Prompt Engineering, and AI application development**.
 
